@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @921810
-- 👀 I’m interested in Explore what you don't understand
+- 👀 I’m interested in Explore what I don't understand
 - 🌱 I’m currently learning What is GItHub
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
